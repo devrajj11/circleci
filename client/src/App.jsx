@@ -65,7 +65,7 @@ export default function App() {
   return (
     <main className="board">
       <header className="board-head">
-        <h1>Status Board</h1>
+        <h1>Status Checker Board</h1>
         <p className="summary">
           {loading
             ? "Loading services…"
